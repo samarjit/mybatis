@@ -22,5 +22,6 @@ PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
 	</environments>
 	<mappers>
 		<mapper resource="org/mybatis/example/mappers/ContactMapper.xml" />
+		<mapper resource="org/mybatis/example/mappers/BlogMapper.xml" />
 	</mappers>
 </configuration>
